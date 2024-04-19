@@ -10,12 +10,13 @@ public class Condicional {
         } else {
             System.out.println("Filme retrô que vale a pena assistir!");
         }
-
         if (incluidoNoPlano == false || tipoPlano.equals("plus")) {
             System.out.println("venha assistir");
         } else {
             System.out.println("se fudeu");
         }
+
+        // somente adicionando um comentario
 
     }
 }
